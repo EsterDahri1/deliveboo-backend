@@ -1,0 +1,29 @@
+@import "~bootstrap/scss/bootstrap";
+.del_primary {
+    background-color: #729ef5;
+}
+.del_warning {
+    background-color: #f18701;
+}
+.del_yellow {
+    background-color: #f7b801;
+}
+.del_danger {
+    background-color: #f35b04;
+}
+.del_dark {
+    background-color: #2057c6;
+}
+.del_black {
+    background-color: #000000;
+}
+.del_light {
+    background-color: #fafafa;
+}
+
+.img_delivery {
+    width: 20vh;
+    background-image: url(../images/How-to-start-a-food-delivery-business.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
